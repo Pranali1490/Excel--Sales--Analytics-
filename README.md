@@ -26,7 +26,7 @@ Project Objective:
 
 1.	Create a Profit and Loss by Fiscal Years– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/P%26L%20Fiscal%20Years.pdf)
 
-2.	Create Profit and Loss by Months– ()
+2.	Create Profit and Loss by Months– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/P%26L%20by%20Months.pdf)
 
 3.	Create a Profit and Loss by Markets– ()
 
