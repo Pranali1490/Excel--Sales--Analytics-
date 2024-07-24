@@ -30,7 +30,7 @@ Project Objective:
 
 3.	Create a Profit and Loss by Markets– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/P%26L%20by%20Markets.pdf)
 
-4.	Create a Gross Margin% Quarters Report– ()
+4.	Create a Gross Margin% Quarters Report– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/GM%25%20Quarters.pdf)
 
 • Evaluate Financial Performance: Provide insights into the financial health of the organization by analyzing revenue, expenses, profits, and other financial metrics.
 
