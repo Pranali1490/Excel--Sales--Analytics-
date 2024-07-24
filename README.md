@@ -4,7 +4,8 @@ Sales Analytics Report:
 
 Project Objective:
 
-1.	Create Customer Performance –  
+1.	Create Customer Performance – (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/Customer%20Performance%20Report.pdf)
+
 2.	Conduct a comprehensive comparison between Market Performance and Sales Targets - 
 
 • Identify Sales Patterns: Recognize trends and patterns in sales data that can inform future sales strategies.
