@@ -4,9 +4,9 @@ Sales Analytics Report:
 
 Project Objective:
 
-1.	Create Customer Performance – (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/Customer%20Performance%20Report.pdf)
+1.	Create Customer Performance– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/Customer%20Performance%20Report.pdf)
 
-2.	Conduct a comprehensive comparison between Market Performance and Sales Targets - (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/Market%20Performace%20vs%20Target.pdf)
+2.	Conduct a comprehensive comparison between Market Performance and Sales Targets- (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/Market%20Performace%20vs%20Target.pdf)
 
 • Identify Sales Patterns: Recognize trends and patterns in sales data that can inform future sales strategies.
 
@@ -24,13 +24,13 @@ Finance Analytics Report:
 
 Project Objective:
 
-1.	Create a Profit and Loss by Fiscal Years – Link
+1.	Create a Profit and Loss by Fiscal Years– (https://github.com/Pranali1490/Excel--Sales--Analytics-/blob/main/P%26L%20Fiscal%20Years.pdf)
 
-2.	Create Profit and Loss by Months – Link
+2.	Create Profit and Loss by Months– ()
 
-3.	Create a Profit and Loss by Markets – Link
+3.	Create a Profit and Loss by Markets– ()
 
-4.	Create a Gross Margin% Quarters Report- Link
+4.	Create a Gross Margin% Quarters Report– ()
 
 • Evaluate Financial Performance: Provide insights into the financial health of the organization by analyzing revenue, expenses, profits, and other financial metrics.
 
