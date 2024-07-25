@@ -48,19 +48,20 @@ Create a Gross Margin% Quarters Report– (https://github.com/Pranali1490/Excel-
 
 Technical & Soft Skills:
 
-Technical Skills:
+•	Technical Skills:
 
- Proficiency in ETL methodology (Extract, Transform, Load).
- Skills to generate a date table using Power Query.
- Ability to derive fiscal months and quarters.
- Establishing data model relationships with Power Pivot.
- Proficiency in incorporating supplementary data into an existing data model.
- Utilizing DAX to create calculated columns.
+o	 Proficiency in ETL methodology (Extract, Transform, Load).
+o	 Skills to generate a date table using Power Query.
+o	 Ability to derive fiscal months and quarters.
+o	 Establishing data model relationships with Power Pivot.
+o	 Proficiency in incorporating supplementary data into an existing data model.
+o	 Utilizing DAX to create calculated columns.
 
-Soft Skills:
+•	Soft Skills:
 
- Refined understanding of Sales & Finance Reports.
- Designing user-centric reports with empathy in mind.
- Optimization of report generation through meticulous fine-tuning.
- Developing a systematic approach to devising a report-building plan.
+o	 Refined understanding of Sales & Finance Reports.
+o	 Designing user-centric reports with empathy in mind.
+o	 Optimization of report generation through meticulous fine-tuning.
+o	 Developing a systematic approach to devising a report-building plan.
+
 By leveraging both Sales and Finance Analytics, businesses can make more informed decisions, improve their sales processes, and drive growth and profitability. At the same time, they can gain a deeper understanding of their financial position, identify opportunities for cost savings and revenue growth, and ensure long-term financial sustainability. These analytics empower organizations to align their sales strategies with financial goals, enhance transparency with stakeholders, and achieve overall business success.
