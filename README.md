@@ -60,5 +60,4 @@ Project Objective:
 - [x] Optimization of report generation through meticulous fine-tuning.
 - [x] Developing a systematic approach to devising a report building plan.
 
-By leveraging both Sales and Finance Analytics, businesses can make more informed decisions, improve their sales processes, and drive growth and profitability.
-At the same time, they can gain a deeper understanding of their financial position, identify opportunities for cost savings and revenue growth, and ensure long-term financial sustainability. These analytics empower organizations to align their sales strategies with financial goals, enhance transparency with stakeholders, and achieve overall business success.
+By leveraging both Sales and Finance Analytics, businesses can make more informed decisions, improve their sales processes, and drive growth and profitability. At the same time, they can gain a deeper understanding of their financial position, identify opportunities for cost savings and revenue growth, and ensure long-term financial sustainability. These analytics empower organizations to align their sales strategies with financial goals, enhance transparency with stakeholders, and achieve overall business success.
