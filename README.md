@@ -46,22 +46,20 @@ Create a Gross Margin% Quarters Report– (https://github.com/Pranali1490/Excel-
 
 • Confidence Building: Instill confidence in the organization's financial outlook among stakeholders by providing clear and comprehensive financial reports.
 
-Technical & Soft Skills:
+## Technical & Soft Skills:
 
-•	Technical Skills:
+## Technical Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
-o	 Proficiency in ETL methodology (Extract, Transform, Load).
-o	 Skills to generate a date table using Power Query.
-o	 Ability to derive fiscal months and quarters.
-o	 Establishing data model relationships with Power Pivot.
-o	 Proficiency in incorporating supplementary data into an existing data model.
-o	 Utilizing DAX to create calculated columns.
-
-•	Soft Skills:
-
-o	 Refined understanding of Sales & Finance Reports.
-o	 Designing user-centric reports with empathy in mind.
-o	 Optimization of report generation through meticulous fine-tuning.
-o	 Developing a systematic approach to devising a report-building plan.
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
 
 By leveraging both Sales and Finance Analytics, businesses can make more informed decisions, improve their sales processes, and drive growth and profitability. At the same time, they can gain a deeper understanding of their financial position, identify opportunities for cost savings and revenue growth, and ensure long-term financial sustainability. These analytics empower organizations to align their sales strategies with financial goals, enhance transparency with stakeholders, and achieve overall business success.
